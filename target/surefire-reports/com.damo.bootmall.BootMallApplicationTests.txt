@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.damo.bootmall.BootMallApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.278 s - in com.damo.bootmall.BootMallApplicationTests
